@@ -1,5 +1,3 @@
 **이미지 테스트**
 
-<img src="/assets/image.png">
-
-<img src="https://github.com/nettopcnc/Image_Test/blob/master/assets/image.png">
+<img src="http://cafefiles.naver.net/20120907_36/1020kjd_1346993213903QxuiC_PNG/play.png">
